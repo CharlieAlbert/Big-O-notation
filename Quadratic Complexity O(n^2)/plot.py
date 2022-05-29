@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 x = [2, 4, 6, 8, 10, 12]
-y = [50, 100, 150, 200, 250, 300]
+y = [4, 16, 36, 64, 100, 144]
 
 plt.plot(x, y, 'b')
 plt.xlabel('Inputs')
