@@ -9,4 +9,4 @@ def const_algo(items):
     return prod
 
 
-print(const_algo([2, 5, 9, 1, 8, 7]))
+print(const_algo([2, 5, 9, 1, 8, 7, 10]))

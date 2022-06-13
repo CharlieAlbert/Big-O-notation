@@ -1,5 +1,5 @@
 """
-A function is said to cubic if the number of steps used are a cubic function of the number of items in the
+A function is said to cubic if the number of steps used triples for every item in the
 inputs
 """
 
